@@ -1,6 +1,6 @@
 # 📚 Projeto de Web Scraping e Análise de Livros
 
-Este projeto Python automatiza o processo de **raspagem de dados** de livros no site [Books to Scrape](https://books.toscrape.com), organiza os dados, envia para uma **planilha no Google Sheets** e gera um **relatório de resumo**. Tudo isso com estratégias básicas de proteção de IP.
+Este projeto Python automatiza o processo de **raspagem de dados** de livros no site [Books to Scrape](https://books.toscrape.com), organiza os dados com **Pandas**, envia para uma **planilha no Google Sheets** e gera um **relatório de resumo e análise com gráficos**, demonstrando automação de coleta de dados e visualização.
 
 ---
 
