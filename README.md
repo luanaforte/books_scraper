@@ -10,9 +10,7 @@ Este projeto Python automatiza o processo de **raspagem de dados** de livros no 
 - ✅ Armazenamento local em CSV
 - ✅ Upload automático para uma planilha do Google Sheets
 - ✅ Geração de relatório estatístico em `.txt`
-- ✅ Gráfico de pizza com distribuição de preços
-- ✅ Estratégias básicas anti-bloqueio (delay + user-agent)
-
+- ✅ Gráfico com distribuição de preços
 ---
 
 ## 📊 Acessar a Planilha
