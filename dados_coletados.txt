@@ -1,0 +1,51 @@
+=================================================================
+                  RELATÓRIO DE WEBSCRAPING DE LIVROS             
+=================================================================
+
+--- DADOS GERAIS ---
+Data e Hora da Geração: 26/06/2025 23:22:54
+Número total de livros raspados: 1000
+Colunas coletadas: Title, Link, Price, Stock
+
+--- ANÁLISE DETALHADA ---
+-----------------------------------------------------------------
+Estatísticas de Preço:
+  Preço Médio: £35.07
+  Preço Mínimo: £10.00
+  Preço Máximo: £59.99
+
+Distribuição de Estoque:
+Stock
+In stock    1000
+
+--- AMOSTRA: PRIMEIRAS 10 LINHAS ---
+-----------------------------------------------------------------
+                                                                                         Title                                                                                                                                              Link  Price    Stock
+                                                                          A Light in the Attic                                                                         https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html £51.77 In stock
+                                                                            Tipping the Velvet                                                                            https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html £53.74 In stock
+                                                                                    Soumission                                                                                    https://books.toscrape.com/catalogue/soumission_998/index.html £50.10 In stock
+                                                                                 Sharp Objects                                                                                 https://books.toscrape.com/catalogue/sharp-objects_997/index.html £47.82 In stock
+                                                         Sapiens: A Brief History of Humankind                                                          https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html £54.23 In stock
+                                                                               The Requiem Red                                                                               https://books.toscrape.com/catalogue/the-requiem-red_995/index.html £22.65 In stock
+                                            The Dirty Little Secrets of Getting Your Dream Job                                            https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html £33.34 In stock
+       The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull         https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html £17.93 In stock
+The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html £22.60 In stock
+                                                                               The Black Maria                                                                               https://books.toscrape.com/catalogue/the-black-maria_991/index.html £52.15 In stock
+
+--- AMOSTRA: ÚLTIMAS 10 LINHAS ---
+-----------------------------------------------------------------
+                                                      Title                                                                                                    Link  Price    Stock
+                   Bridget Jones's Diary (Bridget Jones #1)                 https://books.toscrape.com/catalogue/bridget-joness-diary-bridget-jones-1_10/index.html £29.82 In stock
+                              Bounty (Colorado Mountain #7)                            https://books.toscrape.com/catalogue/bounty-colorado-mountain-7_9/index.html £37.26 In stock
+                       Blood Defense (Samantha Brinkman #1)                     https://books.toscrape.com/catalogue/blood-defense-samantha-brinkman-1_8/index.html £20.30 In stock
+Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1) https://books.toscrape.com/catalogue/bleach-vol-1-strawberry-and-the-soul-reapers-bleach-1_7/index.html £34.65 In stock
+                                       Beyond Good and Evil                                  https://books.toscrape.com/catalogue/beyond-good-and-evil_6/index.html £43.38 In stock
+  Alice in Wonderland (Alice's Adventures in Wonderland #1) https://books.toscrape.com/catalogue/alice-in-wonderland-alices-adventures-in-wonderland-1_5/index.html £55.53 In stock
+           Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)            https://books.toscrape.com/catalogue/ajin-demi-human-volume-1-ajin-demi-human-1_4/index.html £57.06 In stock
+          A Spy's Devotion (The Regency Spies of London #1)         https://books.toscrape.com/catalogue/a-spys-devotion-the-regency-spies-of-london-1_3/index.html £16.97 In stock
+                        1st to Die (Women's Murder Club #1)                       https://books.toscrape.com/catalogue/1st-to-die-womens-murder-club-1_2/index.html £53.98 In stock
+                         1,000 Places to See Before You Die                     https://books.toscrape.com/catalogue/1000-places-to-see-before-you-die_1/index.html £26.08 In stock
+
+=================================================================
+                       FIM DO RELATÓRIO                        
+=================================================================
